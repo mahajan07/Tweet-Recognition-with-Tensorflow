@@ -34,4 +34,4 @@ Task 7: Creating the Model
 
 Task 8: Training the Model
 
-Task 9: Evaluating the Mode
+Task 9: Evaluating the Model
